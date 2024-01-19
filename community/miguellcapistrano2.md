@@ -4,7 +4,9 @@
     Um dos meus maiores desafios foi ter trabalhado numa clínica para recrutar voluntários para a criação de uma nova vacina para a COVID durante a pandemia.
     Depois decidir voltar para o DF e morar com uma amiga que trabalha na área de tecnologia, mais específicamente em dados, e com ela comecei a conhecer mais sobre esse mundo e me interessar por ele. Por isso, estou aqui na DIO aprendendo mais sobre essa área, e pretendendo fazer 2 pós em BI e UX(pensando em ser umm dev front-end).
 ## Habilidades
-Em busca ><
+Javascript
+HTML5
+CSS3
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguellcapistrano&theme=transparent&bg_color=20B2AA&border_color=DCDCDC&show_icons=true&icon_color=FFA500&title_color=FFF&text_color=FFF&hide_title=true)
 
